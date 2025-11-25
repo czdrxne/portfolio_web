@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+@theme {
+  
+  --color-blk:    #000000;
+  --color-wht:    #ffffff;
+  --color-blu:     #1447e6;
+
+  --color-bg-pri:   #151515;
+  --color-bg-sec:   #2a2a2a;
+  --color-tx-pri:   #fafafa;
+
+  --font-primary: "Anton", sans-serif, system-ui;
+  --font-secondary: "Clash Display", sans-serif, system-ui;
+}
+
+@font-face {
+  font-family: "Anton";
+  src:
+    url("/fonts/anton/regular.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Clash Display";
+  src:
+    url("/fonts/clashdisplay/regular.woff2") format("woff2"),
+    url("/fonts/clashdisplay/regular.woff") format("woff");
+  font-weight: 100 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+.cursor-default       { cursor: url("/cursors/default.cur"), default; }
+.cursor-pointer       { cursor: url("/cursors/pointer.cur"), pointer; }
+.cursor-person        { cursor: url("/cursors/person.cur"), auto; }
+.cursor-help          { cursor: url("/cursors/help.cur"), help; }
+.cursor-unavailable   { cursor: url("/cursors/unavailable.cur"), not-allowed; }
+.cursor-location      { cursor: url("/cursors/location.cur"), crosshair; }
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
