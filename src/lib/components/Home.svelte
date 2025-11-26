@@ -29,7 +29,7 @@
 			<span class="lg:text-3xl text-2xl sm:text-xl text-[13px]">\\ WEBSITE UNDER CONSTRUCTION //</span>
 		</h1>
 		<a
-			href="mailto:czdrxne@gmail.com?subject=Hello%20Louise%20Czedrian&body=Hi%20Louise%2C%0A%0AI%20came%20across%20your%20portfolio%20website%20while%20it%E2%80%99s%20still%20in%20development%2C%20and%20I%20wanted%20to%20reach%20out.%20It%20looks%20like%20you%E2%80%99re%20working%20on%20something%20nice%2C%20and%20I%20thought%20it%20would%20be%20a%20good%20opportunity%20to%20connect.%0A%0AI%E2%80%99m%20interested%20in%20what%20you%E2%80%99re%20putting%20together%20and%20would%20like%20to%20know%20more%20about%20your%20plans%20for%20the%20site%20once%20it%E2%80%99s%20finished.%20If%20you%E2%80%99re%20open%20to%20it%2C%20I%E2%80%99d%20be%20happy%20to%20chat%20or%20exchange%20a%20few%20ideas.%0A%0AHope%20to%20hear%20from%20you%20soon.%0A%0ABest%2C%0A%5BYour%20Name%5D"
+			href="https://mail.google.com/mail/?view=cm&fs=1&to=czdrxne@gmail.com&su=Hello%20Louise%20Czedrian&body=Hi%20Louise,%0A%0AI%20came%20across%20your%20portfolio%20website%20while%20it%E2%80%99s%20still%20in%20development,%20and%20I%20wanted%20to%20reach%20out.%20It%20looks%20like%20you%E2%80%99re%20working%20on%20something%20nice,%20and%20I%20thought%20it%20would%20be%20a%20good%20opportunity%20to%20connect.%0A%0AI%E2%80%99m%20interested%20in%20what%20you%E2%80%99re%20putting%20together%20and%20would%20like%20to%20know%20more%20about%20your%20plans%20for%20the%20site%20once%20it%E2%80%99s%20finished.%20If%20you%E2%80%99re%20open%20to%20it,%20I%E2%80%99d%20be%20happy%20to%20chat%20or%20exchange%20a%20few%20ideas.%0A%0AHope%20to%20hear%20from%20you%20soon.%0A%0ABest,%0A%5BYour%20Name%5D"
 			title="reachout"
 			rel="noreferrer noopener"
 			target="_blank"
