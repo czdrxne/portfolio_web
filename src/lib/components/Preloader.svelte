@@ -65,7 +65,7 @@
 		<div class="bg-white outline-hidden border-hidden bars h-full w-full translate-y-0"></div>
 	{/each}
 
-	<p class="logo flex text-[4.4rem] sm:text-[25vw] lg:text-[16vw] sm:gap-1 font-primary text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 leading-none overflow-hidden tracking-tight text-black">
+	<p class="logo flex text-[5rem] sm:text-[25vw] lg:text-[16vw] sm:gap-1 font-primary text-center absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 leading-none overflow-hidden tracking-tight text-black">
     {#each "CZDRXNE".split("") as letter}
       <span class="inline-block translate-y-full opacity-0 invisible">{letter}</span>
     {/each}
